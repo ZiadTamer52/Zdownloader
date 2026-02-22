@@ -32,7 +32,7 @@ Antivirus note: Some AVs flag brand new unsigned .exe files → you may need to 
 
 ## How to Get the .exe on GitHub Releases
 
-1. Go to the repository → **Releases** tab (right side or [https://github.com/YOUR-USERNAME/Zdownloader/releases](https://github.com/ZiadTamer52/Zdownloader/releases/latest))
+1. Go to the repository → **Releases** tab (right side or [[https://github.com/ZiadTamer52/Zdownloader/releases](https://github.com/ZiadTamer52/Zdownloader/releases/latest)]
 2. Click the **latest release** (e.g. `v1.0.0`)
 3. Scroll to **Assets** section
 4. Download `Zdownloader.exe` (or similar name)
