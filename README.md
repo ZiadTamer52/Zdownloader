@@ -12,7 +12,7 @@ High-quality downloads • Beautiful GUI • Thumbnail preview • No installati
 
 Download the latest **standalone .exe** — no Python installation required!
 
-→ Go to [**Releases** → Latest version](https://github.com/YOUR-USERNAME/Zdownloader/releases/latest)  
+→ Go to [**Releases** → Latest version](https://github.com/ZiadTamer52/Zdownloader/releases/latest)  
 → Click on `Zdownloader.exe` (or `Zdownloader_vX.Y.Z.exe`) under **Assets**  
 → Run it directly
 
